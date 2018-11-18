@@ -1,0 +1,11 @@
+SRR1365088.summary.txt 
+... list of detected integration sites of viral DNAs with "INTACT" ends
+SRR1365088.summary.txt 
+... list of detected integration sites of viral DNAs with "ABERRANT" ends
+
+primers.txt
+... input file for indicating primer sequences of LTR or linker portions (not including adapter sequences)
+virendref.txt
+... input file for indicating primer sequences of LTR or linker portions (not including adapter sequences)
+    as well as expected LTR end sequences
+
